@@ -25,5 +25,8 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### dhtmlx-gantt使用
+```
+1、安装依赖包
+npm install dhtmlx-gantt
+```
